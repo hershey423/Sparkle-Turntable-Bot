@@ -3,7 +3,7 @@
 
 exports.name = 'roominfo';
 exports.hidden = true;
-exports.enabled = true;
+exports.enabled = false;
 exports.matchStart = false;
 exports.handler = function(data) {
     var response = reptarCall();
