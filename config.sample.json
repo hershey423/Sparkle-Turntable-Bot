@@ -1,9 +1,9 @@
 {"botinfo":
-	{"auth":"auth+live+#####",
-	"userid":"#####",
-	"botname":"meow"},
-"roomid":"4f1e02590c4cc807574030f1",
-"admin":"#####",
+	{"auth":"auth+live+675f64f738640a149889304a3f9634e35267006a",
+	"userid":"4ffff906aaa5cd013c000106",
+	"botname":"Hershey423's Bitch"},
+"roomid":"4f6d3091a3f75169fa0007a2",
+"admin":"4fb30359aaa5cd1b440008fb",
 "database":
 	{"usedb":true,
 	"dbname":"nodejs_mysql_treehouse", 
@@ -13,46 +13,46 @@
 		"chat": "CHATLOG", 
 		"user": "USERS", 
 		"holiday": "HOLIDAY_GREETINGS"},
-	"login":{
+	"login":false{
 		"user":"#####",
 		"password":"#####",
         "host": "localhost"}},
 "lastfm":
-	{"useapi":true,
+	{"useapi":false,
 	"lastfmkey":"#####"},
 "http":
     {"usehttp": true,
     "port": 8181,
     "host": "localhost"},
-"responses":
+"responses":"WHAT THE FUCK YOU WANT?!?"
 	{"respond":true,
     "announcebonus":true,
-	"reportsongstats":true,
+	"reportsongstats":false,
 	"welcomeusers":true,
     "welcomepm":true,
     "alwayspm":false,
-    "pmgreet": "Welcome to Indie/Classic Alternative 1 & Done! No queue, fastest finger, play one song and step down. Full rules at http://tinyurl.com/63hr2jl . Type 'commands' to see a list of commands I can respond to.",
+    "pmgreet": "s",
 	"greeting":"Welcome, ",
-	"ownerresponse":"sharedferret made me!",
+	"ownerresponse":"Hershey423 made me!",
 	"sing":true, 
 	"rules": 
-		{"description": "No queue, fastest finger, play two songs and step down", 
-		"link": "http://tinyurl.com/63hr2jl"}
+		{"description": "Type '/rules' for the rules list. NO SKRILLEX WITHOUT MODERATOR PERMISSION MOTHERFUCKS", 
+		"link": "http://turntable.fm/dubstep_for_your_nipples3"}
 	},
 "consolelog":false,
 "bonusvote":"VOTE",
 "enforcement":
 	{"enforceroom":true,
     "waitlist":false,
-	"songstoplay":2,
+	"songstoplay":,
 	"stepuprules":
-		{"waittostepup":true,
-		"waittype":"SONGS",
-		"length":4},
+		{"waittostepup":false,
+		"waittype":"",
+		"length":},
 	"ffarules":
-		{"multiplespotffa":true,
-		"timerffa":true,
-		"timeout":10}
+		{"multiplespotffa":false,
+		"timerffa":false,
+		"timeout":0}
     }, 
 "maintenance": 
 	{"autorejoin": true}}
