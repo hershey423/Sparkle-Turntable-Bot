@@ -1,6 +1,6 @@
 //Changes the bot's username
 
-exports.name = '.botname';
+exports.name = "Hershey423s Bitch";
 exports.hidden = true;
 exports.enabled = true;
 exports.matchStart = true;
